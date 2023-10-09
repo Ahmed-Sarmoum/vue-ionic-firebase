@@ -1,0 +1,7 @@
+{
+  "name": "coin-keeper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
